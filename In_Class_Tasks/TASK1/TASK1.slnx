@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="TASK1/TASK1.csproj" />
+</Solution>
+internal class Program
+static void Main(string[] args)
+(
+  Console.WriteLine("Hello World! This is my first C# Application");
+)
