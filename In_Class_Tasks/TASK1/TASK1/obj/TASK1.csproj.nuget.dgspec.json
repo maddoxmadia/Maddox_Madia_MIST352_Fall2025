@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/In_Class_Tasks/TASK1/TASK1/TASK1.csproj": {}
+    "/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/In_Class_Tasks/Task1/Task1/Task1.csproj": {}
   },
   "projects": {
-    "/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/In_Class_Tasks/TASK1/TASK1/TASK1.csproj": {
+    "/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/In_Class_Tasks/Task1/Task1/Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/In_Class_Tasks/TASK1/TASK1/TASK1.csproj",
-        "projectName": "TASK1",
-        "projectPath": "/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/In_Class_Tasks/TASK1/TASK1/TASK1.csproj",
+        "projectUniqueName": "/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/In_Class_Tasks/Task1/Task1/Task1.csproj",
+        "projectName": "Task1",
+        "projectPath": "/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/In_Class_Tasks/Task1/Task1/Task1.csproj",
         "packagesPath": "/Users/maddoxmadia/.nuget/packages/",
-        "outputPath": "/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/In_Class_Tasks/TASK1/TASK1/obj/",
+        "outputPath": "/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/In_Class_Tasks/Task1/Task1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maddoxmadia/.nuget/NuGet/NuGet.Config"
@@ -55,9 +55,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
