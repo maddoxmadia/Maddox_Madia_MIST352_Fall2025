@@ -1,0 +1,15 @@
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/bin/Debug/net9.0/Practice2
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/bin/Debug/net9.0/Practice2.deps.json
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/bin/Debug/net9.0/Practice2.runtimeconfig.json
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/bin/Debug/net9.0/Practice2.dll
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/bin/Debug/net9.0/Practice2.pdb
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/obj/Debug/net9.0/Practice2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/obj/Debug/net9.0/Practice2.AssemblyInfoInputs.cache
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/obj/Debug/net9.0/Practice2.AssemblyInfo.cs
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/obj/Debug/net9.0/Practice2.csproj.CoreCompileInputs.cache
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/obj/Debug/net9.0/Practice2.sourcelink.json
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/obj/Debug/net9.0/Practice2.dll
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/obj/Debug/net9.0/refint/Practice2.dll
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/obj/Debug/net9.0/Practice2.pdb
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/obj/Debug/net9.0/Practice2.genruntimeconfig.cache
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Practice2/Practice2/obj/Debug/net9.0/ref/Practice2.dll

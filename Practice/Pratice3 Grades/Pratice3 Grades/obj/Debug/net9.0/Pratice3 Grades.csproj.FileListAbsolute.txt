@@ -1,0 +1,5 @@
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Pratice3 Grades/Pratice3 Grades/obj/Debug/net9.0/Pratice3 Grades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Pratice3 Grades/Pratice3 Grades/obj/Debug/net9.0/Pratice3 Grades.AssemblyInfoInputs.cache
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Pratice3 Grades/Pratice3 Grades/obj/Debug/net9.0/Pratice3 Grades.AssemblyInfo.cs
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Pratice3 Grades/Pratice3 Grades/obj/Debug/net9.0/Pratice3 Grades.csproj.CoreCompileInputs.cache
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/Pratice3 Grades/Pratice3 Grades/obj/Debug/net9.0/Pratice3 Grades.sourcelink.json
