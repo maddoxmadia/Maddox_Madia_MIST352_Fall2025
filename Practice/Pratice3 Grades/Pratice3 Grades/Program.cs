@@ -25,8 +25,8 @@ class Program
 
         Console.WriteLine($"Hello {strName} the 4.0 scale gpa of your grades {dblGrade1}, {dblGrade2}, and {dblGrade3} is {dblGPA}");
 
-        bool blnFail = true;
+        //Evaluate whether  dblGPA is less than 50 or not. If it is, then make blnFail True.
+        bool blnFail = dblGPA > 50;
         Console.WriteLine($"Failed? {blnFail}");
-
     }
 }
