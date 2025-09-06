@@ -1,0 +1,15 @@
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/bin/Debug/net9.0/HW1
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/bin/Debug/net9.0/HW1.deps.json
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/bin/Debug/net9.0/HW1.runtimeconfig.json
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/bin/Debug/net9.0/HW1.dll
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/bin/Debug/net9.0/HW1.pdb
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/obj/Debug/net9.0/HW1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/obj/Debug/net9.0/HW1.AssemblyInfoInputs.cache
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/obj/Debug/net9.0/HW1.AssemblyInfo.cs
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/obj/Debug/net9.0/HW1.csproj.CoreCompileInputs.cache
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/obj/Debug/net9.0/HW1.sourcelink.json
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/obj/Debug/net9.0/HW1.dll
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/obj/Debug/net9.0/refint/HW1.dll
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/obj/Debug/net9.0/HW1.pdb
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/obj/Debug/net9.0/HW1.genruntimeconfig.cache
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Homeworks/HW1/HW1/obj/Debug/net9.0/ref/HW1.dll
