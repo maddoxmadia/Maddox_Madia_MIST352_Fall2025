@@ -1,0 +1,15 @@
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/bin/Debug/net9.0/PracticeGrades
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/bin/Debug/net9.0/PracticeGrades.deps.json
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/bin/Debug/net9.0/PracticeGrades.runtimeconfig.json
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/bin/Debug/net9.0/PracticeGrades.dll
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/bin/Debug/net9.0/PracticeGrades.pdb
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/obj/Debug/net9.0/PracticeGrades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/obj/Debug/net9.0/PracticeGrades.AssemblyInfoInputs.cache
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/obj/Debug/net9.0/PracticeGrades.AssemblyInfo.cs
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/obj/Debug/net9.0/PracticeGrades.csproj.CoreCompileInputs.cache
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/obj/Debug/net9.0/PracticeGrades.sourcelink.json
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/obj/Debug/net9.0/PracticeGrades.dll
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/obj/Debug/net9.0/refint/PracticeGrades.dll
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/obj/Debug/net9.0/PracticeGrades.pdb
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/obj/Debug/net9.0/PracticeGrades.genruntimeconfig.cache
+/Users/maddoxmadia/Desktop/MIST352 Fall 2025/Maddox_Madia_MIST352_Fall2025/Practice/PracticeGrades/PracticeGrades/obj/Debug/net9.0/ref/PracticeGrades.dll
