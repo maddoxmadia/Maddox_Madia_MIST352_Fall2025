@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InClassTask4_IfSimpleGrade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fe4a6ebae2b3b92178306967bf5a232e4e7069a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04d1d95d5c7644d930722fea7b852f2d6b6c0b95")]
 [assembly: System.Reflection.AssemblyProductAttribute("InClassTask4_IfSimpleGrade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InClassTask4_IfSimpleGrade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
